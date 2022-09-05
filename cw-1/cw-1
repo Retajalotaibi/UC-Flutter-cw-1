@@ -1,1 +1,5 @@
-
+var firstName = "Retaj";
+var lastName = "Alotaibi";
+var age = 19;
+var hobby = "painting";
+print("I'm ${age}, my hobby is ${hobby}");

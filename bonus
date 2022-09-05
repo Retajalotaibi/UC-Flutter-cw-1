@@ -1,0 +1,3 @@
+var tempF = 80;
+var tempC = (tempF - 32) / 1.8;
+print("${tempF}F = ${tempC}C");
